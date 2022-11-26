@@ -1,0 +1,5 @@
+.sobremi{
+    background-color: var(--color-white-fondo);
+    position: relative;
+    z-index: 400;
+}
